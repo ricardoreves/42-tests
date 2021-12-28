@@ -1,7 +1,7 @@
 # 42 Tests
 
 ## 📕 Libft
-1. [libftTester](https://github.com/Tripouille/libftTester) clone into libft directory.
+1. [libftTester](https://github.com/Tripouille/libftTester)
 
 Tree structure
 ```
