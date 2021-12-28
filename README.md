@@ -35,11 +35,41 @@ make f
 ## 💻 Born2BeRoot
 
 ## 🖨️ Ft_Printf
+[printfTester](https://github.com/Tripouille/printfTester)
+
+Tree structure
+```
+|- libft/printfTester
+```
+Clone and run test
+```
+git clone git@github.com:Tripouille/printfTester.git
+cd printfTester
+make m (launch mandatory tests)
+make b (launch bonus tests)
+make a (launch mandatory tests + bonus tests)
+```
 
 ## ⏭️ Get_Next_Line
+[gnlTester](https://github.com/Tripouille/gnlTester)
+
+Tree structure
+```
+|- libft/gnlTester
+```
+Clone and run test
+```
+git clone git@github.com:Tripouille/gnlTester.git
+cd gnlTester
+make m (launch mandatory tests)
+make b (launch bonus tests)
+make a (launch mandatory tests + bonus tests)
+```
 
 ## 🎮 So_Long
 
 ## 📠 Minitalk
 
 ## 📊 Push_Swap
+- [push_swap_visualizer](https://github.com/o-reo/push_swap_visualizer)
+- [push_swap_tester](https://github.com/lmalki-h/push_swap_tester)
