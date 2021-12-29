@@ -42,7 +42,7 @@ make f
 
 Tree structure
 ```
-|- libft/printfTester
+|- ft_printf/printfTester
 ```
 Clone and run test
 ```
@@ -58,7 +58,7 @@ make a (launch mandatory tests + bonus tests)
 
 Tree structure
 ```
-|- libft/gnlTester
+|- get_next_line/gnlTester
 ```
 Clone and run test
 ```
