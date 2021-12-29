@@ -7,7 +7,7 @@ Tree structure
 ```
 |- libft/libftTester
 ```
-Clone and move to directory
+Clone and change directory
 ```
 git clone git@github.com:Tripouille/libftTester.git && cd libftTester
 ```
@@ -26,7 +26,7 @@ Tree structure
 |- libft/
 |- libft-unit-tests/
 ```
-Clone and move to directory
+Clone and change directory
 ```
 cd .. && git clone git@github.com:alelievr/libft-unit-test.git && cd libft-unit-test
 ```
@@ -44,10 +44,12 @@ Tree structure
 ```
 |- ft_printf/printfTester
 ```
-Clone and run test
+Clone and change directory
 ```
-git clone git@github.com:Tripouille/printfTester.git
-cd printfTester
+git clone git@github.com:Tripouille/printfTester.git && cd printfTester
+```
+Run tests
+```
 make m (launch mandatory tests)
 make b (launch bonus tests)
 make a (launch mandatory tests + bonus tests)
@@ -60,10 +62,12 @@ Tree structure
 ```
 |- get_next_line/gnlTester
 ```
-Clone and run test
+Clone and change directory
 ```
-git clone git@github.com:Tripouille/gnlTester.git
-cd gnlTester
+git clone git@github.com:Tripouille/gnlTester.git && cd gnlTester
+```
+Run tests
+```
 make m (launch mandatory tests)
 make b (launch bonus tests)
 make a (launch mandatory tests + bonus tests)
